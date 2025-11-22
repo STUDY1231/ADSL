@@ -14,3 +14,5 @@ Duke and Market1501
 train with the train.py
 
 test with the test.py
+## 5.Performance
+<img width="681" height="666" alt="image" src="https://github.com/user-attachments/assets/122cfe3d-70b9-4310-9930-1011007f295a" />
