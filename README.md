@@ -23,6 +23,5 @@ Duke and Market1501
 ---
 
 ## 3. Performance
-<p align="center">
-  <img src="assets/111.png" width="600"/>
-</p>
+![Experiment Result](assets/111.png)
+
